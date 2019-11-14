@@ -1,4 +1,4 @@
-package interfaces;
+package com.carfactory;
 
 public class Audi extends Car implements Luxury {
 
